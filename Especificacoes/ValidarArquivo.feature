@@ -26,4 +26,4 @@ Funcionalidade: Validar o carregamento da planilha
     Dado que esteja na tela de envio da planilha
     E tenha uma planilha com um preenchimento diferente do esperado
     Quando eu enviar a planilha
-    Então vejo a seguinte mensagem: "formato da planilha está diferente do esperado, por favor verifique o preenchimento da planilha!"
+    Então vejo a seguinte mensagem: "Formato da planilha está diferente do esperado, por favor verifique o preenchimento da planilha!"
